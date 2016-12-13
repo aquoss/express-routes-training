@@ -1,5 +1,11 @@
 #Training: Express Routing Practice
 
+##Amber Quoss
+#### Respository Link: [express-routes-training](https://github.com/aquoss/express-routes-training)
+
+### My Thoughts
+I really struggled with this homework. Once I looked at the solutions for guidance, the overall concepts themselves made sense. I knew what I wanted to do, just not how to do it. I needed to see quite a few more examples to really grasp how it all came together. With more practice, I'm sure this will become second nature. I expected to have a harder time with this assignment since it is a new topic for me.
+
 ### Deliverable
 
 1. When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment at the top of the document.
