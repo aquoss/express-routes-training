@@ -11,6 +11,7 @@ $('#guess-number-form').on('submit', function(event){
   })
 })
 
+
   $('#target-number-form').on('submit',function(event){
       $.ajax({
         method:'POST',
